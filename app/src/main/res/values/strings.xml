@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">City Guide App</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="slogan_name">We will help you to find a way!</string>
+
+    <!--    title-->
+    <string name="slider_one_title">One Title</string>
+    <string name="slider_two_title">Two Title</string>
+    <string name="slider_three_title">Three Title</string>
+    <string name="slider_four_title">Four Title</string>
+    <!--    slider desc-->
+    <string name="slider_one_desc">
+        First ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+        magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+    </string>
+    <string name="slider_two_desc">
+        Second ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+        magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+    </string>
+    <string name="slider_third_desc">
+        Third ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+        magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+    </string>
+    <string name="slider_four_desc">
+        Four ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+        magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+    </string>
+    <!--    button text-->
+    <string name="lets_get_started">LETS GET STARTED</string>
+    <string name="skip_btn">Skip</string>
+
+    <!-- dashboard -->
+    <string name="hotels">Hotels</string>
+    <string name="banks">Banks</string>
+    <string name="school">Schools</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="airports">Airports</string>
+
+    <string name="featured_location">All featured locations</string>
+    <string name="featured_location_desc">All the locations that are featured and most demand in towns!</string>
+    <string name="most_viewed">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="all_view">View All</string>
+    <string name="search">Search</string>
+
+</resources>
